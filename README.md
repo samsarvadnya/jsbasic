@@ -1,1 +1,1 @@
-# jsbasic
+console log "hello"
